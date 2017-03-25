@@ -7,7 +7,7 @@ The Pokemon Sun Moon RNG Tool
 ## Description
 This is the Pokemon Sun Moon RNG Tool.
 
-##注意事項
+## 注意事項
 本ソフトの使用により何らかのトラブルが発生しても、作者は一切の責任を負いません。
 また、バグにより出力結果が間違っている可能性があります。  
 
@@ -19,7 +19,7 @@ This is the Pokemon Sun Moon RNG Tool.
 [@quan_dra](https://twitter.com/quan_dra)
 
 
-##使用ライブラリ
+## 使用ライブラリ
 
 #### [TinyMT](https://github.com/MersenneTwister-Lab/TinyMT)
 
