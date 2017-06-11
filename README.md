@@ -7,6 +7,10 @@ The Pokemon Sun Moon RNG Tool
 ## Description
 This is the Pokemon Sun Moon RNG Tool.
 
+I recommend using wwwwwwzx's [3DSRNGTool](https://github.com/wwwwwwzx/3DSRNGTool).
+This is more convenient.
+
+
 ## Notes
 Even if something goes wrong with the use of this software, the author assumes no responsibility.
 Also, there is a possibility that the output result is wrong.
